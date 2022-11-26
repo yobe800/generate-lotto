@@ -1,0 +1,1 @@
+export { generateRandomIntegerOfSingleDigit } from "./generateRandomIntegerOfSingleDigit";
